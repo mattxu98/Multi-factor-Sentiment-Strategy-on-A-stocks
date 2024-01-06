@@ -4,4 +4,4 @@
 - Improved CAPM by adding the sentiment. Regressed on the HS300/A-share returns under normal transaction status
 - tratified sentiment beta's. Computed returns and component stocks for the strata. All cumulative returns beat HS300. Lower sensitivity strictly led to higher returns: 0.75/0.72/0.64/0.33, 6 years. Larger firms had more volatile beta's
 
-![a](readme_img/a.png)
+![a](readme_img/a.jpg)
